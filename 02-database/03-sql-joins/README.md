@@ -1,5 +1,7 @@
 # SQL Joins
 
+![SQL Joins Diagram](/media/joins.png)
+
 ## Table of Contents
 1. [Introduction to Joins](#introduction)
 2. [Types of Joins](#types-of-joins)

@@ -7,6 +7,8 @@
 4. [Backend Development Lifecycle](#backend-lifecycle)
 5. [Modern Backend Architecture](#modern-architecture)
 6. [Future of .NET Development](#future)
+![.NET Logo](/media/.net.jpg)
+
 
 ## History of .NET
 
