@@ -198,8 +198,7 @@ This repository contains comprehensive learning materials and notes from the Goo
   - [REST API Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
   - [API Security](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-security)
 
-## How to Use This Repository
-Each section contains detailed notes, code examples, and practice exercises. Start with the fundamentals and progress through the learning path sequentially. The materials are designed to build upon each other, providing a comprehensive understanding of .NET development.
+
 
 ## Contributing
 We welcome contributions to improve these learning materials. If you find errors or have suggestions for improvements, please submit a pull request or open an issue.
