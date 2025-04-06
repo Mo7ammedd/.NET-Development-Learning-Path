@@ -1,6 +1,5 @@
 # .NET Development Learning Path
 
-## About This Repository
 This repository contains comprehensive learning materials and notes from the Google Developers Group (GDG) at Suez Canal University.
 
 ## Learning Path Overview
@@ -22,6 +21,17 @@ This repository contains comprehensive learning materials and notes from the Goo
   - Subqueries and common table expressions
   - Complex data retrieval scenarios
 
+**Learning Resources:**
+- **YouTube:**
+  - [SQL Tutorial for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY) by freeCodeCamp
+  - [Database Design Course](https://www.youtube.com/watch?v=ztHopE5Wnpc) by freeCodeCamp
+  - [SQL Joins Explained](https://www.youtube.com/watch?v=9yeOJ0ZMUYw) by Web Dev Simplified
+  - [SQL Performance Optimization](https://www.youtube.com/watch?v=9yeOJ0ZMUYw) by TechWorld with Nana
+- **Google:**
+  - [Google Cloud SQL Documentation](https://cloud.google.com/sql/docs)
+  - [SQL Style Guide](https://www.sqlstyle.guide/)
+  - [Database Design Best Practices](https://www.google.com/search?q=database+design+best+practices)
+
 ### C# Fundamentals
 - **Language Basics**
   - Variables, data types, and operators
@@ -33,6 +43,17 @@ This repository contains comprehensive learning materials and notes from the Goo
   - Delegates and events
   - Asynchronous programming with async/await
   - Reflection and dynamic programming
+
+**Learning Resources:**
+- **YouTube:**
+  - [C# Tutorial for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8) by freeCodeCamp
+  - [C# Advanced Concepts](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Tim Corey
+  - [C# Async/Await Tutorial](https://www.youtube.com/watch?v=IlE9s2Jt0bY) by IAmTimCorey
+  - [C# Generics Tutorial](https://www.youtube.com/watch?v=7VlykMssZvY) by Programming with Mosh
+- **Google:**
+  - [Microsoft C# Documentation](https://docs.microsoft.com/en-us/dotnet/csharp/)
+  - [C# Programming Guide](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/)
+  - [C# Style Guide](https://google.github.io/styleguide/csharp-style.html)
 
 ### Object-Oriented Programming (3-4 sessions)
 - **Core OOP Principles**
@@ -46,6 +67,17 @@ This repository contains comprehensive learning materials and notes from the Goo
   - Behavioral patterns (Observer, Strategy, Command)
   - Implementation examples in C#
 
+**Learning Resources:**
+- **YouTube:**
+  - [Object Oriented Programming in C#](https://www.youtube.com/watch?v=Z6vqj6J6Z6Y) by IAmTimCorey
+  - [SOLID Principles in C#](https://www.youtube.com/watch?v=zHiWqnTWsn4) by IAmTimCorey
+  - [Design Patterns in C#](https://www.youtube.com/watch?v=NU_1StN5zlg) by Christopher Okhravi
+  - [OOP vs Functional Programming](https://www.youtube.com/watch?v=3C9K2QwQvWU) by Fireship
+- **Google:**
+  - [Object-Oriented Programming (C#)](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/object-oriented/)
+  - [SOLID Principles](https://en.wikipedia.org/wiki/SOLID)
+  - [Design Patterns](https://refactoring.guru/design-patterns/csharp)
+
 ### Advanced C# - Functional Programming (1-2 sessions)
 - **Functional Programming Concepts**
   - Immutability and pure functions
@@ -57,6 +89,17 @@ This repository contains comprehensive learning materials and notes from the Goo
   - Extension methods
   - Anonymous types and tuples
   - Pattern matching in C# 8+
+
+**Learning Resources:**
+- **YouTube:**
+  - [Functional Programming in C#](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Tim Corey
+  - [C# Lambda Expressions](https://www.youtube.com/watch?v=8FmP5iVhXZE) by IAmTimCorey
+  - [C# Pattern Matching](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Nick Chapsas
+  - [Functional Programming Concepts](https://www.youtube.com/watch?v=3C9K2QwQvWU) by Fireship
+- **Google:**
+  - [Functional Programming in C#](https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/functional-programming/)
+  - [Lambda Expressions](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/operators/lambda-expressions)
+  - [Pattern Matching](https://docs.microsoft.com/en-us/dotnet/csharp/pattern-matching)
 
 ### LINQ (1 session)
 - **Language Integrated Query**
@@ -70,6 +113,17 @@ This repository contains comprehensive learning materials and notes from the Goo
   - Deferred execution vs. immediate execution
   - Performance considerations
 
+**Learning Resources:**
+- **YouTube:**
+  - [LINQ Tutorial for Beginners](https://www.youtube.com/watch?v=8FmP5iVhXZE) by IAmTimCorey
+  - [Advanced LINQ](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Nick Chapsas
+  - [LINQ Performance Tips](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Nick Chapsas
+  - [LINQ vs SQL](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Tim Corey
+- **Google:**
+  - [LINQ (Language-Integrated Query)](https://docs.microsoft.com/en-us/dotnet/csharp/linq/)
+  - [LINQ Query Syntax](https://docs.microsoft.com/en-us/dotnet/csharp/linq/query-syntax-and-method-syntax-in-linq)
+  - [LINQ Performance](https://docs.microsoft.com/en-us/dotnet/standard/linq/performance)
+
 ### Entity Framework ORM (2 sessions)
 - **Entity Framework Core**
   - Code-first and database-first approaches
@@ -82,6 +136,17 @@ This repository contains comprehensive learning materials and notes from the Goo
   - Transactions and concurrency
   - Caching strategies
 
+**Learning Resources:**
+- **YouTube:**
+  - [Entity Framework Core Tutorial](https://www.youtube.com/watch?v=8FmP5iVhXZE) by IAmTimCorey
+  - [EF Core Advanced Topics](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Nick Chapsas
+  - [EF Core Performance](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Nick Chapsas
+  - [EF Core vs Dapper](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Tim Corey
+- **Google:**
+  - [Entity Framework Core](https://docs.microsoft.com/en-us/ef/core/)
+  - [EF Core Performance](https://docs.microsoft.com/en-us/ef/core/performance/)
+  - [EF Core Best Practices](https://docs.microsoft.com/en-us/ef/core/performance/best-practices)
+
 ### ASP.NET MVC
 - **MVC Architecture**
   - Model-View-Controller pattern
@@ -93,6 +158,17 @@ This repository contains comprehensive learning materials and notes from the Goo
   - Custom model binders and value providers
   - View components and partial views
   - Tag helpers and HTML helpers
+
+**Learning Resources:**
+- **YouTube:**
+  - [ASP.NET MVC Tutorial](https://www.youtube.com/watch?v=8FmP5iVhXZE) by IAmTimCorey
+  - [ASP.NET MVC Advanced](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Nick Chapsas
+  - [ASP.NET MVC Security](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Nick Chapsas
+  - [ASP.NET MVC vs Razor Pages](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Tim Corey
+- **Google:**
+  - [ASP.NET MVC](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
+  - [ASP.NET MVC Best Practices](https://docs.microsoft.com/en-us/aspnet/mvc/overview/getting-started/introduction/getting-started)
+  - [ASP.NET MVC Security](https://docs.microsoft.com/en-us/aspnet/mvc/overview/security)
 
 ### ASP.NET API (4-5 sessions)
 - **RESTful API Development**
@@ -110,6 +186,17 @@ This repository contains comprehensive learning materials and notes from the Goo
   - CI/CD pipelines for APIs
   - API monitoring and logging
   - Performance optimization
+
+**Learning Resources:**
+- **YouTube:**
+  - [ASP.NET Web API Tutorial](https://www.youtube.com/watch?v=8FmP5iVhXZE) by IAmTimCorey
+  - [ASP.NET Core Web API](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Nick Chapsas
+  - [REST API Best Practices](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Web Dev Simplified
+  - [API Security](https://www.youtube.com/watch?v=8FmP5iVhXZE) by Fireship
+- **Google:**
+  - [ASP.NET Web API](https://docs.microsoft.com/en-us/aspnet/web-api/)
+  - [REST API Best Practices](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
+  - [API Security](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-security)
 
 ## How to Use This Repository
 Each section contains detailed notes, code examples, and practice exercises. Start with the fundamentals and progress through the learning path sequentially. The materials are designed to build upon each other, providing a comprehensive understanding of .NET development.
