@@ -7,7 +7,13 @@
 4. [Backend Development Lifecycle](#backend-lifecycle)
 5. [Modern Backend Architecture](#modern-architecture)
 6. [Future of .NET Development](#future)
-![.NET Logo](/media/.net.jpg)
+
+---
+
+![.NET Logo](/media/.netcore.jpg)
+
+---
+
 
 
 ## History of .NET
@@ -77,6 +83,9 @@
 - **Native AOT**: Ahead-of-time compilation for better performance
 - **Improved Container Support**: Better integration with Docker
 
+![.NET Logo](/media/.net.jpg)
+
+
 ### Key Components
 - **ASP.NET Core**: Web framework for building web applications and APIs
 - **Entity Framework Core**: Modern object-database mapper
@@ -92,54 +101,18 @@
 
 ## Backend Development Lifecycle
 
-### 1. Requirements Gathering
-- **Client Consultation**: Understanding client needs and expectations
-- **Business Analysis**: Identifying business processes and requirements
-- **Stakeholder Interviews**: Gathering input from all relevant parties
-- **Documentation**: Creating detailed requirements documents
+The backend development lifecycle consists of several phases that guide a project from concept to completion. Each phase has specific activities, deliverables, and goals.
 
-### 2. System Requirements Specification (SRS)
-- **Functional Requirements**: What the system should do
-- **Non-Functional Requirements**: How the system should perform
-- **User Stories**: Descriptions of features from user perspective
-- **Use Cases**: Detailed scenarios of system interactions
-- **Acceptance Criteria**: Conditions that must be met for acceptance
+### Overview of Phases
+1. **Requirements Gathering**: Understanding client needs and business requirements
+2. **System Requirements Specification**: Documenting technical specifications
+3. **Design Phase**: Planning system architecture and components
+4. **Development**: Writing and reviewing code
+5. **Testing**: Ensuring quality and functionality
+6. **Deployment**: Moving to production environment
+7. **Maintenance**: Supporting and enhancing the system
 
-### 3. Design Phase
-- **Architecture Design**: High-level system structure
-- **Database Design**: Data models and relationships
-- **API Design**: Endpoints, request/response formats
-- **Security Design**: Authentication, authorization, data protection
-- **UI/UX Design**: User interface and experience (if applicable)
-
-### 4. Development
-- **Setup**: Development environment and tools
-- **Implementation**: Writing code according to design
-- **Code Review**: Peer review of code quality
-- **Testing**: Unit, integration, and system testing
-- **Documentation**: Code comments and technical documentation
-
-### 5. Testing
-- **Unit Testing**: Testing individual components
-- **Integration Testing**: Testing component interactions
-- **System Testing**: Testing the complete system
-- **Performance Testing**: Evaluating system performance
-- **Security Testing**: Identifying vulnerabilities
-- **User Acceptance Testing**: Validation by stakeholders
-
-### 6. Deployment
-- **Environment Setup**: Preparing production environment
-- **CI/CD Pipeline**: Automated build and deployment
-- **Monitoring**: Setting up system monitoring
-- **Backup**: Implementing backup strategies
-- **Documentation**: Deployment and operational guides
-
-### 7. Maintenance
-- **Bug Fixes**: Addressing issues in production
-- **Updates**: Implementing new features
-- **Performance Optimization**: Improving system efficiency
-- **Security Patches**: Addressing vulnerabilities
-- **User Support**: Providing assistance to users
+For detailed information about each phase, including key activities, deliverables, and best practices, see the [Backend Development Lifecycle](./backend-lifecycle.md) guide.
 
 ## Modern Backend Architecture
 
@@ -185,4 +158,4 @@
 - **Community Forums**: [Stack Overflow](https://stackoverflow.com/questions/tagged/.net)
 - **Video Tutorials**: [Microsoft Channel 9](https://channel9.msdn.com/)
 - **Blogs**: [.NET Blog](https://devblogs.microsoft.com/dotnet/)
-- **Books**: "Pro .NET Core 3" by Andrew Troelsen, "C# in Depth" by Jon Skeet 
+- **Books**: "Pro .NET Core 3" by Andrew Troelsen, "C# in Depth" by Jon Skeet
