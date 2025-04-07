@@ -36,7 +36,7 @@ These systems implement SQL with variations but adhere to core standards.
 
 ---
 
-##History of SQL
+## History of SQL
 
 ![History of SQL](https://tse2.mm.bing.net/th?id=OIP.FEUaS5uuNw2Bx-zX_9jD-wHaGL&pid=Api)
 
