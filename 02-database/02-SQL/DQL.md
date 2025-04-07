@@ -1,6 +1,3 @@
-Sure! Here's the **Markdown version** of your updated DQL section with properly **linked images**, ready to drop into your README:
-
----
 
 # Data Query Language (DQL)
 
